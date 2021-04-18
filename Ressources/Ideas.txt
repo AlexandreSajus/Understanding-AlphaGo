@@ -1,0 +1,44 @@
+	Struct:
+Intro: Go why hard
+Supervised learning: what and why
+Reinforcement learning: what and why
+Ccl: What we can learn from
+
+	Documentary:
+6:48: Game of Go really hard David Silver
+7:37: Human intuition, explain Go
+8:25: Go compared to chess, harder
+27:32: Lee Sedol, AI hasnt caught up to human intuition
+43:14: Lee Sedol, Alphago plays in a perfect manner
+47:25: Explain AlphaGo components
+
+David Silver
+Lead Researcher, DeepMind
+"The game of Go is the holy grail of artificial intelligence. For many years, people have looked at this 
+game and thought "Wow, this is just to hard!". Everything we've tried in AI, it just falls over when you 
+try the game of Go. [...] If we can crack Go, 
+we know we've done something special."
+
+	Automatants:
+47:25 (Documentary): Explain AlphaGo components
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+1-Intro: ... Ill explain how alphago beat one of the best players in the world at the game of Go
+	Quick introduction to supervised and reinforcement learning
+
+2-The game of go: explain go using 7:37
+
+3-Why hard: using 8:25 then confirming using quote 6:48
+
+4-The match against Lee Sedol: to confirm performance, match against lee sedol, quote 27:32
+
+5-Victory: confused Lee Sedol + quote 43:14
+
+_____________________
+
+7-Understanding the Human Player: intuition? which moves are interesting, what happpens after these moves
+	Go board
+
+8-Alphago's 3 Components: which moves are interesting, study variations, evaluate variations
+	Policy network, Tree search, Value network
+
+9-Supervised learning: explain, function, inputs, outputs, value network, how it was trained
+
+10-Reinforcement learning: plays against himself: policy network plays and value network evaluates it, more data
+
+(11-How humans can learn from superhuman AIs: Automatants)
+
+12-Thanks for listening! Sources
