@@ -1,4 +1,4 @@
-# Understanding AlphaGo: an Introduction to Supervised and Reinforcement Learning
+# Understanding AlphaGo: An Introduction to Supervised and Reinforcement Learning
 ![](Slides/Title-Slide.jpg)
 ![](Slides/Slide1---The-Game-of-Go.jpg)
 ![](Slides/Slide2---The-Complexity-of-Go.jpg)
